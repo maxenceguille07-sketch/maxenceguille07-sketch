@@ -1,10 +1,10 @@
 <h1 align="center">Salut, moi c'est Maxence 👋</h1>
 
 <p align="center">
-  <img src="goku-kamehameha.jpg" alt="Goku lance un Kamehameha" width="100%">
+  <img src="https://media1.tenor.com/m/s7GxkVCu9DYAAAAC/lr-int-super-saiyan-goku-strike-of-full-anger.gif" width="400">
 </p>
 
-<h2 align="center">Votre présentation <img src="[media.giphy.com](https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif)" width="30px"></h2>
+<h2 align="center">Votre présentation</h2>
 
 <p align="center">
   
