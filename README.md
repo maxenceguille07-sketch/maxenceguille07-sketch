@@ -31,6 +31,5 @@
 </p>
 
 ## 📫 Me contacter
-- 📫 Email : ...
-- 😄 Pronoms : ...
-- ⚡ Fun fact : Je charge mon Kamehameha en codant 🔥
+- 📫 Email : maxence.guille07@gmail.com
+- 😄 Pronoms : Maxence
