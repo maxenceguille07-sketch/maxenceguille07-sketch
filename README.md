@@ -32,4 +32,4 @@
 
 ## 📫 Me contacter
 - 📫 Email : maxence.guille07@gmail.com
-- 😄 Pronoms : Maxence
+- 😄 Prénom : Maxence
